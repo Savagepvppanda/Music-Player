@@ -6,7 +6,7 @@ let songs = [
         cover: 'images/The Weeknd - Blinding Lights.jpg'
     },
     {
-        name: 'Kiss Me More (explicit)',
+        name: 'Kiss Me More',
         path: 'musics/Doja Cat - Kiss Me More (explicit).mp3',
         artist: 'Doja Cat',
         cover: 'images/Doja Cat - Kiss Me More (explicit).jpg'
@@ -18,7 +18,7 @@ let songs = [
         cover: 'images/Drivers License - Olivia Rodrigo (explicit).jpg'
     },
     {
-        name: 'Montero (explicit)',
+        name: 'Montero',
         path: 'musics/Lil Nas X - Montero (explicit).mp3',
         artist: 'Lil Nas X',
         cover: 'images/Lil Nas X - Montero (explicit).jpg'
@@ -42,25 +42,25 @@ let songs = [
         cover: 'images/Justin Bieber - Peaches.jpg'
     },
     {
-        name: 'Levitating (DaBaby Remix) (explicit)',
+        name: 'Levitating (DaBaby Remix)',
         path: 'musics/Dua Lipa - Levitating (DaBaby Remix) (explicit).mp3',
         artist: 'Dua Lipa',
         cover: 'images/Dua Lipa - Levitating (DaBaby Remix) (explicit).jpg'
     },
     {
-        name: 'Industry Baby (explicit)',
+        name: 'Industry Baby',
         path: 'musics/Lil Nas X - Industry Baby (explicit).mp3',
         artist: 'Lil Nas X',
         cover: 'images/Lil Nas X - Industry Baby (explicit).jpg'
     },
     {
-        name: 'Astronaut in the Ocean(explicit)',
+        name: 'Astronaut in the Ocean',
         path: 'musics/Masked Wolf - Astronaut in the Ocean (explicit).mp3',
         artist: 'Masked Wolf',
         cover: 'images/Masked Wolf - Astronaut in the Ocean (explicit).jpg'
     },
         {
-        name: 'Stay (explicit)',
+        name: 'Stay',
         path: 'musics/The Kid Laroi and Justin Bieber - Stay (explicit).mp3',
         artist: 'The Kid Laroi and Justin Bieber',
         cover: 'images/The Kid Laroi and Justin Bieber - Stay (explicit).jpg'
@@ -102,7 +102,7 @@ let songs = [
         cover: 'images/Steve Lacy - Looks.jpg'
     },
     {
-        name: 'Good 4 U (explicit)',
+        name: 'Good 4 U',
         path: 'musics/Good 4 U (explicit).mp3',
         artist: 'Olivia Rodrigo',
         cover: 'images/Good 4 U (explicit).jpg'
